@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0f92c83.chunk.css",
+    "main.js": "/static/js/main.fe64f962.chunk.js",
+    "main.js.map": "/static/js/main.fe64f962.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0295ab70.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0295ab70.js.map",
+    "static/css/2.02daa001.chunk.css": "/static/css/2.02daa001.chunk.css",
+    "static/js/2.ce03a5b0.chunk.js": "/static/js/2.ce03a5b0.chunk.js",
+    "static/js/2.ce03a5b0.chunk.js.map": "/static/js/2.ce03a5b0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.02daa001.chunk.css.map": "/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.a0f92c83.chunk.css.map": "/static/css/main.a0f92c83.chunk.css.map",
+    "static/js/2.ce03a5b0.chunk.js.LICENSE.txt": "/static/js/2.ce03a5b0.chunk.js.LICENSE.txt",
+    "static/media/Logo-ICKO-HD.fb4c1bc1.jpg": "/static/media/Logo-ICKO-HD.fb4c1bc1.jpg",
+    "static/media/Logo-RocketSchool-Original-HD.bbb09dc5.png": "/static/media/Logo-RocketSchool-Original-HD.bbb09dc5.png",
+    "static/media/Logo_SNCF.63f20d0a.jpg": "/static/media/Logo_SNCF.63f20d0a.jpg",
+    "static/media/M6-tv-logo.afb58fac.jpg": "/static/media/M6-tv-logo.afb58fac.jpg",
+    "static/media/acta.43025e91.png": "/static/media/acta.43025e91.png",
+    "static/media/agicap.d0b80c34.png": "/static/media/agicap.d0b80c34.png",
+    "static/media/isispharma.2d228e65.jpg": "/static/media/isispharma.2d228e65.jpg",
+    "static/media/le-wagon.34973ed4.png": "/static/media/le-wagon.34973ed4.png",
+    "static/media/logo recom.28d9ea4b.jpg": "/static/media/logo recom.28d9ea4b.jpg",
+    "static/media/logo-MINIWORLD-DEF2.d32790b7.jpg": "/static/media/logo-MINIWORLD-DEF2.d32790b7.jpg",
+    "static/media/logo-UnPoilCourt.041dc812.jpg": "/static/media/logo-UnPoilCourt.041dc812.jpg",
+    "static/media/logo-entreprise-du-futur.41f06a7c.jpg": "/static/media/logo-entreprise-du-futur.41f06a7c.jpg",
+    "static/media/logo-tahiti-tourisme.a94b0f5f.jpg": "/static/media/logo-tahiti-tourisme.a94b0f5f.jpg",
+    "static/media/logo-tea.5b3626e4.jpg": "/static/media/logo-tea.5b3626e4.jpg",
+    "static/media/mygoldennetwork.a8c47c27.jpg": "/static/media/mygoldennetwork.a8c47c27.jpg",
+    "static/media/vilebrequin-logo.6ba16379.jpg": "/static/media/vilebrequin-logo.6ba16379.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0295ab70.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.ce03a5b0.chunk.js",
+    "static/css/main.a0f92c83.chunk.css",
+    "static/js/main.fe64f962.chunk.js"
+  ]
+}
