@@ -73,6 +73,7 @@ const App = () => {
       >
         <img
           src={logo}
+          alt={logo}
           onDragStart={handleDragStart}
           style={{
             maxHeight: '86px',
